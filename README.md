@@ -1,4 +1,4 @@
-# Olympic_data_analysis-by-power-BI
+# Olympic_data_analysis-using-power-BI
 #powerbi dashboard
  This dashboard provides you a comprehensive overview of Olympic medal performance, with data from all Summer and Winter Olympic Games . It includes interactive visualizations that allow users to explore the data in a variety of ways, including:
  🔹Medals Won by Gender % 
